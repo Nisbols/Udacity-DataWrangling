@@ -1,0 +1,8 @@
+https://sqlite.org/cli.html
+
+https://www.w3schools.com/python/python_regex.asp
+
+https://effbot.org/zone/element-index.htm
+
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+

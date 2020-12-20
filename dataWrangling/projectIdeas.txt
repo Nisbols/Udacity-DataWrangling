@@ -1,0 +1,9 @@
+   Ideas
+    * top user
+    * how many post per year
+    * Database is not normalized
+    * top amenity
+    * number of nodes
+    * number of ways
+    * top church demonation
+    * list of churches with out demonation
